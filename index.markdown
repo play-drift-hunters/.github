@@ -1,6 +1,5 @@
 ---
-# Front Matter cho trang chủ
-layout: default
+layout: page
 title: "Drift Hunters Unblocked – The Ultimate Browser Drifting Game Experience"
 description: "Play Drift Hunters Unblocked in your browser for free. Explore powerful cars, deep tuning options, and realistic drift mechanics. Created by Illia Kaminetskyi, a self-employed developer based in Poland."
 ---
